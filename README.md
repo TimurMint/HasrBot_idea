@@ -1,8 +1,4 @@
 # HasrBot_idea
-import { useState } from "react";
-
-export default function App() {
-    const [count, setCount] = useState(0);
 
     return (
         <div className="flex flex-col items-center justify-center h-screen bg-blue-100">
